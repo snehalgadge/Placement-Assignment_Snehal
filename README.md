@@ -2,3 +2,4 @@
 
 ## [HTML](https://github.com/snehalgadge/Placement-Assignment_Snehal/tree/main)
 ### [Q-4 Resume](https://github.com/snehalgadge/Placement-Assignment_Snehal/tree/main/HTML)
+### [Q-7 Music Player](https://github.com/snehalgadge/Placement-Assignment_Snehal/tree/main/HTML)
