@@ -5,6 +5,7 @@
 ### [Q-7 Music Player](https://github.com/snehalgadge/Placement-Assignment_Snehal/blob/main/HTML/Q_07_MusicPlayer.html)
 
 <br>
+
 ## [CSS](https://github.com/snehalgadge/Placement-Assignment_Snehal/tree/main/02_CSS)
 ### [Q-8 Periodic Table](https://github.com/snehalgadge/Placement-Assignment_Snehal/tree/main/02_CSS/Q_08_PeriodicTable)
 
